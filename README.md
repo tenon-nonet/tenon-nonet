@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href="tenon-nonet.com">Hpmepage</a>
+<a href="tenon-nonet.com">Homepage</a>
 
 <p align="left">
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tenon-nonet&layout=compact&show_icons=true&theme=onedark" />
