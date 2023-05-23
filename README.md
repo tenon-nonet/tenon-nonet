@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![tenon's GitHub stats](https://github-readme-stats.vercel.app/api?username=tenon-nonet&show_icons=true&bg_color=00000000)
+
 
 <!-- トロフィー -->
 [![trophy](https://github-profile-trophy.vercel.app/?username=tenon-nonet&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
