@@ -7,7 +7,7 @@
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=tenon-nonet&theme=radical&show_icons=true" />
   
 <!-- コミットグラフ -->
-<img alt="Top Langs" height="150px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={tenon-nonet}&theme={radical}" />
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tenon-nonet&theme=radical)
   
 <!-- トロフィー -->
 [![trophy](https://github-profile-trophy.vercel.app/?username=tenon-nonet&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
