@@ -1,11 +1,9 @@
 ### Hi there 👋
 <!-- most Langeage graph -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tenon-nonet&hide_progress=true)](https://github.com/tenon-nonet/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tenon-nonet&layout=compact&theme=aura_dark)](https://github.com/tenon-nonet/github-readme-stats)
 
 <!-- 円グラフ -->
 ![tenon's GitHub stats](https://github-readme-stats.vercel.app/api?username=tenon-nonet&theme=radical&show_icons=true)
-
-
 
 <!-- トロフィー -->
 [![trophy](https://github-profile-trophy.vercel.app/?username=tenon-nonet&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
