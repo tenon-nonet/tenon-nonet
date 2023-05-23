@@ -1,5 +1,5 @@
 ### Hi there 👋
-<p style="display: flex; flex-direction: row; justify-content: flex-start;">
+<p style="display: flex;">
   
 <!-- most Langeage graph -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tenon-nonet&layout=compact&theme=aura_dark)](https://github.com/tenon-nonet/github-readme-stats)
